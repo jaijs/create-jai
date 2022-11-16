@@ -12,14 +12,10 @@
     "create-jai": ".src/index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "@singh_harpal/jai-cli": "^1.0.141",
     "@singh_harpal/jai-js": "^1.0.1141"
-  },
-  "devDependencies": {
-    "husky": "^8.0.2"
   }
 }
