@@ -15,7 +15,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@singh_harpal/jai-cli": "^1.0.141",
-    "@singh_harpal/jai-js": "^1.0.1141"
+    "@singh_harpal/jai-cli": "*",
+    "@singh_harpal/jai-js": "*"
   }
 }
