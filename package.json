@@ -1,6 +1,6 @@
 {
   "name": "create-jai",
-  "version": "1.0.12",
+  "version": "1.0.123",
   "keywords": [
     "create-jai"
   ],
@@ -9,7 +9,7 @@
     "node": ">=14"
   },
   "bin": {
-    "create-jai": ".src/index.js"
+    "create-jai": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
