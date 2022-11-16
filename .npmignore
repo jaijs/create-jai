@@ -2,4 +2,4 @@ examples
 test
 .github
 .vscode
-packge-lock.json
+package-lock.json
